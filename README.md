@@ -1,4 +1,5 @@
 Overview
+
 This project was completed as part of an onboarding exercise during the beginning of my internship. 
 It serves as an introduction to working with data, focusing on data cleaning, analysis, and report building. 
 The exercise demonstrates my ability to take raw sales data and transform it into meaningful insights using Excel and Power BI.
@@ -40,10 +41,12 @@ Tools & Skills Demonstrated
       Insight communication
 
 File Information
+
 Due to GitHub file size limitations, the full Excel dashboard is provided as a compressed .zip file.
 Unzip the file to access and interact with the dashboard.
 
 Notes
+
 This was a guided onboarding exercise rather than a standalone business project.
 Some calculations (e.g., LOIs) were used in the Excel dashboard but are not included in the Power BI report.
 Due to layout constraints, certain sections (context and future considerations) are presented as separate screenshots.
