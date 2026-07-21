@@ -5,6 +5,7 @@ It serves as an introduction to working with data, focusing on data cleaning, an
 The exercise demonstrates my ability to take raw sales data and transform it into meaningful insights using Excel and Power BI.
 
 Files & Viewing Order
+
 To best understand the workflow and insights, please review the files in the following order:
   1. Sales Data & Excel Dashboard Workbook
       Contains the original dataset and the Excel-based dashboard
